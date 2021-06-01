@@ -1,0 +1,258 @@
+{
+    "Addons": [
+        {
+            "Checksums": {
+                "WeakAuras": "484e8969de24aa53c04cf7b7649e859d",
+                "WeakAurasArchive": "b478acf2f0aa18ad55622cae7153782b",
+                "WeakAurasModelPaths": "a869093654eb46a248df4d6e64327199",
+                "WeakAurasOptions": "d90bc0b733a78a36a658a9cc095e0fd2",
+                "WeakAurasTemplates": "1c23ae91543b7f40ec1f611fc567645f"
+            },
+            "Directories": [
+                "WeakAurasOptions",
+                "WeakAurasArchive",
+                "WeakAurasModelPaths",
+                "WeakAurasTemplates",
+                "WeakAuras"
+            ],
+            "Name": "WeakAuras",
+            "URL": "https://www.curseforge.com/wow/addons/weakauras-2",
+            "Version": "3.0.4"
+        },
+        {
+            "Checksums": {
+                "Details": "25cecea62759c378338b52ebb001c564",
+                "Details_DataStorage": "55112420f91f67169cc2dc402858c2e5",
+                "Details_EncounterDetails": "845dd678b08a9bb6b17ed1cb375c5b35",
+                "Details_RaidCheck": "6b6e175e843c0aaf45b0da1bc8255ee7",
+                "Details_Streamer": "53cf9c484757ae43042a1a20e4de3f73",
+                "Details_TinyThreat": "eb10ba25619845294606b99d2c9f1a26",
+                "Details_Vanguard": "aaab1abe1b1bac5efba99c00ff1cd52b"
+            },
+            "Directories": [
+                "Details_DataStorage",
+                "Details_Streamer",
+                "Details_TinyThreat",
+                "Details_EncounterDetails",
+                "Details",
+                "Details_RaidCheck",
+                "Details_Vanguard"
+            ],
+            "Name": "Details! Damage Meter",
+            "URL": "https://www.curseforge.com/wow/addons/details",
+            "Version": "DetailsRetail.9.0.1.7932.143"
+        },
+        {
+            "Checksums": {
+                "Bartender4": "3cac5b7a74a27b1bc97e69152046c275"
+            },
+            "Directories": [
+                "Bartender4"
+            ],
+            "Name": "Bartender4",
+            "URL": "https://www.curseforge.com/wow/addons/bartender4",
+            "Version": "4.10.5"
+        },
+        {
+            "Checksums": {
+                "BagBrother": "6b8607090fcac646ee09aec250439287",
+                "Bagnon": "98c3803502738c8665f7dd1aa7ee43e7",
+                "Bagnon_Config": "9d203784a09533365501d2b3e33d9ddb",
+                "Bagnon_GuildBank": "1f1f0eb134d48067efa11f8ec8be39ce",
+                "Bagnon_VoidStorage": "02e216d64271000e3923431014315e09"
+            },
+            "Directories": [
+                "Bagnon_Config",
+                "Bagnon_GuildBank",
+                "Bagnon_VoidStorage",
+                "BagBrother",
+                "Bagnon"
+            ],
+            "Name": "Bagnon",
+            "URL": "https://www.curseforge.com/wow/addons/bagnon",
+            "Version": "9.0.3"
+        },
+        {
+            "Checksums": {
+                "Bagnon_Scrap": "70cf99590d0ff61264fcd814bb5c98ae"
+            },
+            "Directories": [
+                "Bagnon_Scrap"
+            ],
+            "Name": "Bagnon Scrap",
+            "URL": "https://www.curseforge.com/wow/addons/bagnon-scrap",
+            "Version": "8.3.0"
+        },
+        {
+            "Checksums": {
+                "Bagnon_ItemLevel": "dcea9807a1327736651a6227e3ab8c4a"
+            },
+            "Directories": [
+                "Bagnon_ItemLevel"
+            ],
+            "Name": "Bagnon ItemLevel",
+            "URL": "https://www.curseforge.com/wow/addons/bagnon-itemlevel",
+            "Version": "1.0.32b-Release"
+        },
+        {
+            "Checksums": {
+                "HandyNotes": "e0cd139817addd404481d8623b01dc26"
+            },
+            "Directories": [
+                "HandyNotes"
+            ],
+            "Name": "HandyNotes",
+            "URL": "https://www.curseforge.com/wow/addons/handynotes",
+            "Version": "v1.6.0"
+        },
+        {
+            "Checksums": {
+                "TidyPlates_ThreatPlates": "e0b45eec1e7ba76be836d729a58b726f"
+            },
+            "Directories": [
+                "TidyPlates_ThreatPlates"
+            ],
+            "Name": "Threat Plates",
+            "URL": "https://www.curseforge.com/wow/addons/tidy-plates-threat-plates",
+            "Version": "10.0.2"
+        },
+        {
+            "Checksums": {
+                "Scrap": "0f90d529f808df1b9db496706ff1207f",
+                "Scrap_Config": "384fb8cbd14b15aa7c4915ea3b162578",
+                "Scrap_Merchant": "76b617ecd3131d220099dce4bfdc74c5"
+            },
+            "Directories": [
+                "Scrap",
+                "Scrap_Merchant",
+                "Scrap_Config"
+            ],
+            "Name": "Scrap (Junk Seller)",
+            "URL": "https://www.curseforge.com/wow/addons/scrap",
+            "Version": "9.0.1"
+        },
+        {
+            "Checksums": {
+                "BigWigs": "0b4213ce0c56f1d0ba8c90c24bebb414",
+                "BigWigs_Azeroth": "9ba08a4540fa0541f49c1d0cde3a379d",
+                "BigWigs_BattleOfDazaralor": "8069b6e95e163a80a3aeb3f537c3f911",
+                "BigWigs_CastleNathria": "2b88c8b33b4ec3f8a9a450c64cfcb866",
+                "BigWigs_Core": "0a723672f336a663106f74b75b9e4f66",
+                "BigWigs_CrucibleOfStorms": "349aa86a97bdfef683b2b1e62876157d",
+                "BigWigs_EternalPalace": "efcd75d8a2e1199b9a4f5bf4d8de06ea",
+                "BigWigs_Nyalotha": "5d2a1de5b1f24b9850c71f8685616d77",
+                "BigWigs_Options": "b5d138855edd32c83959349b1b3abe5a",
+                "BigWigs_Plugins": "c1dc5af6850e30d65feb52edb269e584",
+                "BigWigs_Uldir": "4e11122a7cfa8b951e64a113bb8a4c7f"
+            },
+            "Directories": [
+                "BigWigs_Uldir",
+                "BigWigs_CrucibleOfStorms",
+                "BigWigs_Azeroth",
+                "BigWigs_Plugins",
+                "BigWigs_BattleOfDazaralor",
+                "BigWigs_Core",
+                "BigWigs_CastleNathria",
+                "BigWigs",
+                "BigWigs_Options",
+                "BigWigs_Nyalotha",
+                "BigWigs_EternalPalace"
+            ],
+            "Name": "BigWigs Bossmods",
+            "URL": "https://www.curseforge.com/wow/addons/big-wigs",
+            "Version": "v185.4"
+        },
+        {
+            "Checksums": {
+                "BigWigs_Voice": "ccc750ec6ddbde13c0af615c4e263cdd"
+            },
+            "Directories": [
+                "BigWigs_Voice"
+            ],
+            "Name": "BigWigs_Voice",
+            "URL": "https://www.curseforge.com/wow/addons/bigwigs_voice",
+            "Version": "v9.0.0"
+        },
+        {
+            "Checksums": {
+                "BigWigs_CommonAuras": "88ae11e838ffa0a16cb62c6d13779626"
+            },
+            "Directories": [
+                "BigWigs_CommonAuras"
+            ],
+            "Name": "BigWigs_CommonAuras",
+            "URL": "https://www.curseforge.com/wow/addons/big-wigs_common-auras",
+            "Version": "v8.2.0"
+        },
+        {
+            "Checksums": {
+                "LittleWigs": "00593d5f1579d3fee60add97bb8b09a5"
+            },
+            "Directories": [
+                "LittleWigs"
+            ],
+            "Name": "LittleWigs",
+            "URL": "https://www.curseforge.com/wow/addons/little-wigs",
+            "Version": "v9.0.2"
+        },
+        {
+            "Checksums": {
+                "HandyNotes_BrokenShore": "b9c0875fa02bc735ccc4a6b0e5d8f270"
+            },
+            "Directories": [
+                "HandyNotes_BrokenShore"
+            ],
+            "Name": "HandyNotes - Broken Shore",
+            "URL": "https://www.curseforge.com/wow/addons/handynotes-broken-shore",
+            "Version": "v1.37"
+        },
+        {
+            "Checksums": {
+                "MythicDungeonTools": "32977a73e47d2eb3f7a09d2d1e4347f5"
+            },
+            "Directories": [
+                "MythicDungeonTools"
+            ],
+            "Name": "Mythic Dungeon Tools",
+            "URL": "https://www.curseforge.com/wow/addons/mythic-dungeon-tools",
+            "Version": "v3.2.4"
+        },
+        {
+            "Checksums": {
+                "AstralKeys": "4a4893fa7ea15faee7c081074aa55bca"
+            },
+            "Directories": [
+                "AstralKeys"
+            ],
+            "Name": "Astral Keys",
+            "URL": "https://www.curseforge.com/wow/addons/astral-keys",
+            "Version": "3.29"
+        },
+        {
+            "Checksums": {
+                "WorldQuestTab": "2231a345ca97be540e83fd4611574376"
+            },
+            "Directories": [
+                "WorldQuestTab"
+            ],
+            "Name": "World Quest Tab",
+            "URL": "https://www.curseforge.com/wow/addons/worldquesttab",
+            "Version": "9.0.01"
+        }
+    ],
+    "AutoUpdate": true,
+    "Backup": {
+        "Enabled": true,
+        "Number": 7
+    },
+    "CFCacheCloudFlare": {},
+    "CFCacheTimestamp": 1603586629,
+    "CompactMode": false,
+    "IgnoreClientVersion": {},
+    "ShowAuthors": true,
+    "Version": "3.14.0",
+    "WAAPIKey": "",
+    "WAAccountName": "GIORDANO",
+    "WACompanionVersion": 1110,
+    "WAUsername": ""
+}

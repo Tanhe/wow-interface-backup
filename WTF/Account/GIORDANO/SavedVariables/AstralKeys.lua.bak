@@ -1,0 +1,298 @@
+
+AstralKeys = {
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "DEATHKNIGHT",
+		["key_level"] = 11,
+		["unit"] = "Corsanguis-Area52",
+		["dungeon_id"] = 382,
+		["week"] = 201,
+		["faction"] = 1,
+		["time_stamp"] = 174418,
+	}, -- [1]
+}
+AstralCharacters = {
+	{
+		["weekly_best"] = 0,
+		["class"] = "DEATHKNIGHT",
+		["unit"] = "Corsanguis-Area52",
+		["faction"] = 1,
+	}, -- [1]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["faction"] = 1,
+		["unit"] = "Taneh-Area52",
+	}, -- [2]
+}
+AstralKeysSettings = {
+	["wipedOldTables"] = true,
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = true,
+		},
+		["init_time"] = 1622559600,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["frame"] = {
+		["rank_filter"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			true, -- [6]
+			true, -- [7]
+			true, -- [8]
+			true, -- [9]
+			true, -- [10]
+		},
+		["current_list"] = "GUILD",
+		["isCollapsed"] = {
+			["isEnabled"] = false,
+		},
+		["orientation"] = 1,
+		["mingle_offline"] = {
+			["isEnabled"] = false,
+		},
+		["sorth_method"] = "character_name",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["new_settings_config"] = true,
+}
+AstralMinimap = {
+	["profileKeys"] = {
+		["Sharinar - Area 52"] = "Sharinar - Area 52",
+		["Corsanguis - Area 52"] = "Corsanguis - Area 52",
+		["Ghark - Area 52"] = "Ghark - Area 52",
+		["Tanhe - Area 52"] = "Tanhe - Area 52",
+		["Tanhedo - Eonar"] = "Tanhedo - Eonar",
+		["Tzezu - Area 52"] = "Tzezu - Area 52",
+		["Leapinleper - Area 52"] = "Leapinleper - Area 52",
+		["Holyshelf - Eonar"] = "Holyshelf - Eonar",
+		["Tanhegar - Area 52"] = "Tanhegar - Area 52",
+		["Taneh - Area 52"] = "Taneh - Area 52",
+		["Tanhesa - Area 52"] = "Tanhesa - Area 52",
+	},
+	["profiles"] = {
+		["Sharinar - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 161.2948628675368,
+			},
+		},
+		["Corsanguis - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 347.5016617128056,
+			},
+		},
+		["Ghark - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 241.8906365072152,
+			},
+		},
+		["Tanhe - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 191.8007875524845,
+			},
+		},
+		["Tanhedo - Eonar"] = {
+			["minimap"] = {
+				["minimapPos"] = 215.4031451399158,
+			},
+		},
+		["Tzezu - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 234.6319581487041,
+			},
+		},
+		["Leapinleper - Area 52"] = {
+		},
+		["Holyshelf - Eonar"] = {
+			["minimap"] = {
+				["minimapPos"] = 195.0565250619115,
+			},
+		},
+		["Tanhegar - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 199.3762417721083,
+			},
+		},
+		["Taneh - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 351.9629230540934,
+			},
+		},
+		["Tanhesa - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 239.528427871141,
+			},
+		},
+	},
+}
+AstralAffixes = {
+	["rotation"] = {
+	},
+	["season_start_week"] = 174,
+	["season_affix"] = 121,
+}
+AstralLists = {
+	{
+		["name"] = "GUILD",
+		["units"] = {
+			["Youkstabs-Area52"] = "Youk#11558",
+			["Typeloudr-Area52"] = true,
+			["Typelouderr-Area52"] = true,
+			["Eander-Area52"] = "afpac#1330",
+			["Sarula-Area52"] = true,
+			["Shdwwordhug-Area52"] = true,
+			["Youk-Area52"] = "Youk#11558",
+			["Papantlaa-Area52"] = true,
+			["Galows-Area52"] = true,
+			["Aloyseos-Area52"] = true,
+			["Vålk-Area52"] = true,
+			["Dentistdruid-Area52"] = true,
+			["Corsanguis-Area52"] = true,
+			["Slowthar-Area52"] = "Youk#11558",
+			["Quass-Area52"] = "Dolgare#1940",
+			["Dextrey-Area52"] = true,
+			["Jenounes-Area52"] = true,
+			["Vålkblast-Area52"] = true,
+			["Bonesquig-Area52"] = true,
+			["Boneshackle-Area52"] = true,
+			["Pelor-Area52"] = true,
+			["Dolgare-Area52"] = true,
+			["Bonesummon-Area52"] = true,
+			["Luainesta-Area52"] = true,
+			["Sigae-Area52"] = true,
+			["Hunterdotter-Area52"] = true,
+			["Sugarchi-Area52"] = true,
+			["Dexplosion-Area52"] = true,
+			["Tulana-Area52"] = true,
+			["Geke-Area52"] = true,
+			["Darkshapes-Area52"] = true,
+			["Bleedmascara-Area52"] = true,
+			["Galf-Area52"] = "Dolgare#1940",
+			["Gazthralla-Area52"] = "Youk#11558",
+			["Lyxania-Area52"] = true,
+			["Thumachos-Area52"] = true,
+			["Astralfalls-Area52"] = true,
+			["Maxwellchaos-Area52"] = true,
+			["Lavafalls-Area52"] = "afpac#1330",
+			["Armatas-Area52"] = true,
+			["Dentisthunt-Area52"] = true,
+			["Bonescout-Area52"] = true,
+			["Mandoza-Area52"] = true,
+			["Dentistsham-Area52"] = true,
+			["Giko-Area52"] = true,
+			["Trystt-Area52"] = true,
+			["Vålkweaver-Area52"] = true,
+			["Forgeborne-Area52"] = true,
+			["Vålktide-Area52"] = true,
+			["Emarossa-Area52"] = true,
+			["Dayzo-Area52"] = true,
+			["Synystergate-Area52"] = true,
+			["Gorellik-Area52"] = true,
+			["Crashlouder-Area52"] = true,
+			["Aremios-Area52"] = true,
+			["Shermans-Area52"] = true,
+			["Taneh-Area52"] = true,
+			["Chaosfalls-Area52"] = "afpac#1330",
+			["Mabeob-Area52"] = true,
+			["Camal-Area52"] = true,
+			["Aleragosa-Area52"] = "Lincarious#1532",
+			["Boneshaman-Area52"] = true,
+			["Pleadz-Area52"] = true,
+			["Ultninja-Area52"] = true,
+			["Cantorchaos-Area52"] = true,
+			["Hólywing-Area52"] = true,
+			["Ulyseos-Area52"] = true,
+			["Dãrkwing-Area52"] = true,
+			["Valnor-Area52"] = true,
+			["Valorfalls-Area52"] = "afpac#1330",
+			["Trystlouder-Area52"] = true,
+			["Begzilla-Area52"] = true,
+			["Grahl-Area52"] = true,
+			["Bakstabbath-Area52"] = true,
+			["Prind-Area52"] = true,
+			["Cutthythroat-Area52"] = true,
+			["Nomak-Area52"] = true,
+		},
+	}, -- [1]
+	{
+		["name"] = "FRIENDS",
+		["units"] = {
+			["Youkstabs-Area52"] = "Youk#11558",
+			["Ganb-Area52"] = "Dolgare#1940",
+			["Eander-Area52"] = "afpac#1330",
+			["Cantorchaos-Area52"] = "Ikeda#1296",
+			["Youk-Area52"] = "Youk#11558",
+			["Cindêr-Area52"] = "LokiAshaman#1399",
+			["Pleadz-Area52"] = "Chibi#1952",
+			["Astralfalls-Area52"] = "afpac#1330",
+			["Yeomin-Area52"] = "Yeomin#1565",
+			["Lupó-Area52"] = "Youk#11558",
+			["Lavafalls-Area52"] = "afpac#1330",
+			["Armatas-Area52"] = "Bullseyed#1836",
+			["Slowthar-Area52"] = "Youk#11558",
+			["Quass-Area52"] = "Dolgare#1940",
+			["Dannifae-Area52"] = "Chibi#1952",
+			["Daishii-Area52"] = "LokiAshaman#1399",
+			["Büllseyed-Mal'Ganis"] = "Bullseyed#1836",
+			["Begzilla-Area52"] = "Chibi#1952",
+			["Dolgare-Area52"] = "Dolgare#1940",
+			["Forgeborne-Area52"] = "ForgeStoker#1410",
+			["Lincarious-Area52"] = "Lincarious#1532",
+			["Pattyfalls-Area52"] = "afpac#1330",
+			["Hunterdotter-Area52"] = "Cattie35#11619",
+			["Maxwellchaos-Area52"] = "Ikeda#1296",
+			["Chaosfalls-Area52"] = "afpac#1330",
+			["Foxieladi-Area52"] = "Chibi#1952",
+			["Youkstones-Area52"] = "Youk#11558",
+			["Shdwwordhug-Area52"] = "afpac#1330",
+			["Gazthralla-Area52"] = "Youk#11558",
+			["Bullseyed-Area52"] = "Bullseyed#1836",
+			["Moruba-Area52"] = "Dolgare#1940",
+			["Galf-Area52"] = "Dolgare#1940",
+			["Jenounes-Area52"] = "Dolgare#1940",
+			["Telleardris-Area52"] = "Bullseyed#1836",
+			["Bakstabbath-Area52"] = "Bullseyed#1836",
+			["Kenzeigh-Area52"] = "Lincarious#1532",
+			["Aleragosa-Area52"] = "Lincarious#1532",
+			["Shermans-Area52"] = "Bullseyed#1836",
+			["Dezrez-Area52"] = "Bullseyed#1836",
+			["Dovert-Area52"] = "Bullseyed#1836",
+			["Debordes-Area52"] = "Dolgare#1940",
+			["Brisias-Area52"] = "Yeomin#1565",
+			["Valorfalls-Area52"] = "afpac#1330",
+		},
+	}, -- [2]
+}
+AstralUnits = nil

@@ -1,0 +1,119 @@
+VER 3 0000000000000013 "/m" "INV_Misc_QuestionMark"
+/cast @cursor Earthquake
+END
+VER 3 0000000000000014 "BT + PoF" "INV_Misc_QuestionMark"
+#showtooltip Pillar of Frost
+/cast Blood Tap
+/cast Pillar of Frost
+END
+VER 3 000000000000000E "BT/UA" "INV_Misc_QuestionMark"
+#showtooltip Unbreakable Armor
+/cast Blood Tap
+/cast  Unbreakable Armor
+END
+VER 3 000000000000000F "DS" "Ability_Ambush"
+/2 NESSQUICK IS THE BEST!!!!!
+END
+VER 3 000000000000001B "dsfsdf" "132254"
+ss
+END
+VER 3 000000000000001F "DTBloodFury" "342913"
+#showtooltip Dark Transformation
+/cast Blood Fury
+/cast Inscrutable Quantum Device
+/cast Dark Transformation
+END
+VER 3 000000000000001A "EQ Cursor" "132254"
+/cast [@cursor] Earthquake
+END
+VER 3 0000000000000006 "Frogs" "Ability_Creature_Cursed_01"
+/use Warts-B-Gone Lip Balm
+/kiss
+END
+VER 3 000000000000001E "Great Vault" "3754301"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
+VER 3 000000000000000B "Heal Self" "Ability_Creature_Cursed_05"
+/castsequence reset=4, Rejuvenation, Lifebloom,Regrowth,Moonkin Form(Shapeshift)
+END
+VER 3 0000000000000004 "Hug Baby" "Ability_Druid_NaturalPerfection"
+/target Noriea
+/hug
+END
+VER 3 0000000000000019 "Interrupt Focus" "INV_Weapon_ShortBlade_23"
+/cast [@focus] Skull Bash
+END
+VER 3 0000000000000009 "Kiss Mojo" "Ability_Creature_Poison_01"
+/target Mojo
+/kiss
+END
+VER 3 0000000000000008 "Kiss sara" "Ability_Druid_KingoftheJungle"
+/target Sara
+/kiss
+/kiss
+/kiss
+/kiss
+END
+VER 3 0000000000000011 "Kneel" "Ability_Creature_Disease_04"
+/kneel
+END
+VER 3 0000000000000012 "LEEROY" "INV_Misc_QuestionMark"
+LEEROY..... JENKINS!!!!!
+END
+VER 3 000000000000001C "Misery" "463286"
+/cast Blood Fury
+/cast Dark Soul: Misery
+END
+VER 3 000000000000000D "moving right" "Ability_Creature_Disease_03"
+/y MOVING RIGHT
+END
+VER 3 0000000000000005 "Overcharge" "Ability_Creature_Cursed_04"
+/rw Kill the Adds!!
+END
+VER 3 0000000000000017 "Pulling" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/dbm pull 5
+END
+VER 3 0000000000000001 "QH" "INV_Misc_QuestionMark"
+/qh hide
+END
+VER 3 0000000000000018 "Ready" "INV_Weapon_Shortblade_84"
+/readycheck
+END
+VER 3 000000000000001D "Skull" "136145"
+/script SetRaidTargetIcon("target", 8)
+END
+VER 3 000000000000000C "Tar time" "Ability_CheapShot"
+/target Time
+END
+VER 3 0000000000000002 "target" "Ability_Creature_Cursed_02"
+/target Time
+END
+VER 3 000000000000000A "Totem Smash" "Ability_Druid_GaleWinds"
+#showtooltip Moonfire
+/target Poison Clean
+/target Mana Spring
+/target Tremor Totem
+/target Wrath of Air Totem
+/target Windfury Totem
+/target Mana Tide Totem
+/target Grounding Totem
+/cast Moonfire(Rank 1)
+END
+VER 3 0000000000000003 "TS Info" "Ability_BullRush"
+/ra Vent Info: 69.147.230.130 Port 5485 No PW
+/p Vent Info: 69.147.230.130 Port 5485 No PW
+END
+VER 3 0000000000000015 "UF + Racial" "INV_Misc_QuestionMark"
+#showtooltip Essence of the Eternal Flame
+/use Essence of the Eternal Flame
+/cast Blood Fury
+END
+VER 3 0000000000000016 "Ultra" "Ability_DualWieldSpecialization"
+/click ExtraActionButton1
+END
+VER 3 0000000000000007 "Use Core" "Ability_Creature_Cursed_05"
+/use Magnetic Core
+END
+VER 3 0000000000000010 "YELL NAME" "Ability_Creature_Cursed_02"
+/y HANET BITING: %t
+END

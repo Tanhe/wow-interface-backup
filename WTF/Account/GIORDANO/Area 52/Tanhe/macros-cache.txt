@@ -1,0 +1,9 @@
+VER 3 0100000000000001 "Havoc Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip Havoc
+/cast [@mouseover,harm] Havoc; [harm] Havoc
+END
+VER 3 0100000000000002 "Shadowburn" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowburn
+/stopcasting
+/cast [@mouseover,harm] Shadowburn; [harm] Shadowburn
+END

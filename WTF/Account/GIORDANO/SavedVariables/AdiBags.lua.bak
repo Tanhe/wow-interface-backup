@@ -1,0 +1,72 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Equipment"] = {
+		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Mark of the World Tree"] = false,
+						["Ironpaw Token"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Lesser Charm of Good Fortune"] = false,
+						["Garrison Resources"] = false,
+						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["War Resources"] = false,
+						["Argent Commendation"] = false,
+						["Epicurean's Award"] = false,
+						["Echoes of Ny'alotha"] = false,
+						["Coalescing Visions"] = false,
+						["Wakening Essence"] = false,
+						["Titan Residuum"] = false,
+						["Corrupted Mementos"] = false,
+						["Curious Coin"] = false,
+						["Elder Charm of Good Fortune"] = false,
+						["Ancient Mana"] = false,
+						["Prismatic Manapearl"] = false,
+						["Champion's Seal"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
+		},
+		["Junk"] = {
+		},
+		["MoneyFrame"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Ghark - Area 52"] = "Default",
+		["Taneh - Area 52"] = "Default",
+		["Corsanguis - Area 52"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["columnWidth"] = {
+				["Backpack"] = 9,
+			},
+		},
+	},
+}

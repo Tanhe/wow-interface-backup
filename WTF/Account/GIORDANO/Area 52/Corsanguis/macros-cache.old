@@ -1,0 +1,33 @@
+VER 3 0100000000000009 "dg" "237532"
+#showtooltip Death Grip
+/cast [target=mouseover,exists] Death Grip; Death Grip
+END
+VER 3 0100000000000004 "Left" "Ability_Hunter_Assassinate2"
+/target Left Foot
+END
+VER 3 0100000000000006 "Lichborne" "INV_MISC_QUESTIONMARK"
+#showtooltip Lichborne
+/cast Lichborne;
+/cast [@player] Death Coil
+END
+VER 3 0100000000000001 "Mind Freeze" "INV_Misc_QuestionMark"
+#showtooltip Mind Freeze
+/cast [target=mouseover, exists] Mind Freeze; Mind Freeze
+END
+VER 3 010000000000000A "ra" "136143"
+#showtooltip Raise Ally
+/cast [@mouseover,help][@target]Raise Ally
+END
+VER 3 0100000000000005 "Right" "Ability_Hunter_BeastCall"
+/target Right Foot
+END
+VER 3 010000000000000B "Trinkets" "644385"
+/cast Overwhelming Power Crystal
+/cast Inscrutable Quantum Device
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Hunter_ExplosiveShot"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 0100000000000003 "VuhDoDCShieldNames" "Ability_Hunter_ExplosiveShot"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Han[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Rib
+END

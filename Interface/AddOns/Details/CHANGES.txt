@@ -1,0 +1,10 @@
+tag efe4eebfe7e2bf74a6b31af40c817bb1d91d46e3 DetailsRetail.9.0.5.8501a.144
+Author:	Tercio Jose <terciob19@hotmail.com>
+Date:	Mon May 17 18:38:14 2021 -0300
+
+commit eba3036d02db0ce3688c4a49c8890c29ef1d79e7
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Mon May 17 18:37:25 2021 -0300
+
+    Fixes for the latest release
+

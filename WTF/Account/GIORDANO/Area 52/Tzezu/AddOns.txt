@@ -1,0 +1,15 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Bagnon: enabled
+Bagnon_Config: enabled
+Bagnon_GuildBank: enabled
+Bagnon_Scrap: enabled
+Bagnon_VoidStorage: enabled
+Bartender4: enabled
+HandyNotes: enabled
+BigWigs_CommonAuras: enabled
+BigWigs_Voice: enabled
+LittleWigs: enabled

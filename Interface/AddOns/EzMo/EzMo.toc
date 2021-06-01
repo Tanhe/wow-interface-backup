@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: EzMo - Mouseover Macros Made Ez
+## Notes: Allows you to create and automatically update mouseover macros.
+## Author: Jakob Winkler
+## Version: 9.0.2-r1
+## SavedVariables: EzMoDB
+
+embeds.xml
+main.lua

@@ -1,0 +1,8 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+BigWigs_CommonAuras: enabled
+BigWigs_Voice: enabled
+LittleWigs: enabled

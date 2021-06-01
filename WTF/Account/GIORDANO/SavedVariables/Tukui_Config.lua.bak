@@ -1,0 +1,29 @@
+
+TukuiConfigShared = {
+	["Area 52"] = {
+		["Leapinleper"] = {
+			["General"] = {
+				["Scaling"] = {
+					["Options"] = {
+						["Small"] = "Small",
+						["Pixel Perfection"] = "Pixel Perfection",
+						["Large"] = "Large",
+						["Oversize"] = "Oversize",
+						["Smallest"] = "Smallest",
+						["Medium"] = "Medium",
+					},
+					["Value"] = "Pixel Perfection",
+				},
+			},
+			["ActionBars"] = {
+				["NormalButtonSize"] = 50,
+				["HotKey"] = true,
+				["ButtonSpacing"] = 4,
+				["PetButtonSize"] = 25,
+			},
+		},
+	},
+	["Account"] = {
+	},
+}
+TukuiConfigPerAccount = nil

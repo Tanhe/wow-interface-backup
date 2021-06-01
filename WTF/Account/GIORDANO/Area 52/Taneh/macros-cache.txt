@@ -1,0 +1,52 @@
+VER 3 010000000000000F "CW MO" "132137"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Cenarion Ward
+END
+VER 3 0100000000000007 "EffCursor" "134222"
+#showtooltip
+/cast [mod:alt,@player] [@cursor,combat] [] Efflorescence
+END
+VER 3 010000000000000D "IronbarkMO" "572025"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Ironbark
+END
+VER 3 0100000000000008 "LifebloomMO" "134206"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Lifebloom
+END
+VER 3 0100000000000003 "Moonfire_MO" "136096"
+#showtooltip
+/cast [@mouseover][@target] Moonfire;
+END
+VER 3 010000000000000E "NCMO" "236288"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Nature's Cure
+END
+VER 3 0100000000000006 "Rebirth MO" "136080"
+#showtooltip Rebirth
+/cast [@mouseover,help]Rebirth;Rebirth
+END
+VER 3 010000000000000B "RegrowthMO" "136085"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Regrowth
+END
+VER 3 0100000000000009 "RejuvMO" "136081"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Rejuvenation
+END
+VER 3 0100000000000005 "Starfore_AC" "236168"
+#showicon
+/cast [@cursor] Starfall;
+END
+VER 3 0100000000000004 "Sunfire_MO" "236216"
+#showtooltip
+/cast [target=mouseover] Sunfire; Sunfire;
+END
+VER 3 010000000000000C "SwiftmendMO" "134914"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Swiftmend
+END
+VER 3 010000000000000A "Wild Growth MO" "236153"
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [] Wild Growth
+END

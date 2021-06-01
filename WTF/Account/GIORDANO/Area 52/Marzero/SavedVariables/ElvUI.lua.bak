@@ -1,0 +1,249 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"WTS |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|rlvl boost. lvl 110-120 in 1 hour, summon ready.", -- [1]
+			"Aerostrike-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aerostrike-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			326, -- [11]
+			"Player-3676-0AACF2BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Aerostrike|r",
+			[51] = 1590345845,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"<WildFire Coven> 12/12H Recruiting for Shadowlands! Casual raiding, PvP, Keys. Two raid teams available! Pushing Mythic raiding in Shadowlands. Looking for players of all classes, roles, and levels. Helpful, fun loving environment. PST for more info.", -- [1]
+			"Plágueheárt-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Plágueheárt-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			327, -- [11]
+			"Player-3676-0AAD7F0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Plágueheárt|r",
+			[51] = 1590345849,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
+			"Gandriel-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gandriel-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			328, -- [11]
+			"Player-3676-082C2A96", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Gandriel|r",
+			[51] = 1590345850,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"WTS |cffffffff|Hitem:168185::::::::1:71::::::|h[Osmenite Ore]|h|r 6k per stack", -- [1]
+			"Businesman-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Businesman-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			329, -- [11]
+			"Player-3676-0AD23484", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cBusinesman|r",
+			[51] = 1590345857,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"DONT LET THESE PEOPLE ROB YOU FOR MASK RUN GOLD! ITS REPORTABLE! you can DO A FULL RUN WITH A GROUP OF FRIENDS", -- [1]
+			"Fartin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fartin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			330, -- [11]
+			"Player-3676-09CA5CB6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeFartin|r",
+			[51] = 1590345858,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"dude, it's called providing a service, I sell visions on my monk and buy them on my way behind alt", -- [1]
+			"Imgryss-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Imgryss-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			331, -- [11]
+			"Player-3676-09FC9668", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Imgryss|r",
+			[51] = 1590345861,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			">>>W]EEKEND SALE<<< WTS M+ 10-18 keys. Armor stacks & specific keys available! WTS Horrific Vision 0-5 masks guaranteed. GOLD ONLY. PST for info/reserve", -- [1]
+			"Ariennea-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ariennea-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			332, -- [11]
+			"Player-3676-0ADB770B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Ariennea|r",
+			[51] = 1590345864,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"it's not a big deal", -- [1]
+			"Imgryss-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Imgryss-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			333, -- [11]
+			"Player-3676-09FC9668", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Imgryss|r",
+			[51] = 1590345867,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"WTS Mythic Jaina Mount |cffa335ee|Hitem:166705::::::::20:259::6:1:3524:::|h[Glacial Tidestorm]|h|r guaranteed mount, looted to you! SALE is for GOLD only. PST for more info!", -- [1]
+			"Canh-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Canh-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			334, -- [11]
+			"Player-3676-0ACE73EC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Canh|r",
+			[51] = 1590345867,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"WTS 3-5 Horrific Visions 3-5 masks carry & Freehold leveling 110-120! PST", -- [1]
+			"Lotzy-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lotzy-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			336, -- [11]
+			"Player-3676-0AD65DAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Lotzy|r",
+			[51] = 1590345869,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"WTS 5 Mask Horrific Vision Carry w/ all chests/pages complete. Completing for you with ANY LEVEL CLOAK! Guaranteed 470 iLvl Corruption Gear & Maximum Echoes of Ny'alotha. PST.", -- [1]
+			"Lanteranth-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lanteranth-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-3676-09FE3A06", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Lanteranth|r",
+			[51] = 1590345871,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+	},
+}

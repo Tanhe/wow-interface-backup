@@ -1,0 +1,109 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Corsanguis - Area 52"] = "Corsanguis - Area 52",
+		["Sharinar - Area 52"] = "Sharinar - Area 52",
+		["Tanhe - Eonar"] = "Tanhe - Eonar",
+		["Tanhe - Area 52"] = "Tanhe - Area 52",
+		["Fayzed - Eonar"] = "Fayzed - Eonar",
+		["Borsuczek - Aerie Peak"] = "Borsuczek - Aerie Peak",
+		["Ghark - Area 52"] = "Ghark - Area 52",
+		["Leapinleper - Area 52"] = "Leapinleper - Area 52",
+		["Tanhedo - Eonar"] = "Tanhedo - Eonar",
+		["Hanet - Eonar"] = "Hanet - Eonar",
+		["Tzezu - Area 52"] = "Tzezu - Area 52",
+		["Tanknee - Eonar"] = "Tanknee - Eonar",
+		["Holyshelf - Eonar"] = "Holyshelf - Eonar",
+		["Tanhegar - Area 52"] = "Tanhegar - Area 52",
+		["Taneh - Area 52"] = "Taneh - Area 52",
+		["Tanhesa - Area 52"] = "Tanhesa - Area 52",
+	},
+	["profiles"] = {
+		["Corsanguis - Area 52"] = {
+		},
+		["Sharinar - Area 52"] = {
+		},
+		["Tanhe - Eonar"] = {
+		},
+		["Tanhe - Area 52"] = {
+		},
+		["Fayzed - Eonar"] = {
+		},
+		["Borsuczek - Aerie Peak"] = {
+		},
+		["Ghark - Area 52"] = {
+		},
+		["Leapinleper - Area 52"] = {
+		},
+		["Tanhedo - Eonar"] = {
+		},
+		["Hanet - Eonar"] = {
+		},
+		["Tzezu - Area 52"] = {
+		},
+		["Tanknee - Eonar"] = {
+		},
+		["Holyshelf - Eonar"] = {
+		},
+		["Tanhegar - Area 52"] = {
+		},
+		["Taneh - Area 52"] = {
+		},
+		["Tanhesa - Area 52"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Corsanguis - Area 52"] = "Corsanguis - Area 52",
+		["Sharinar - Area 52"] = "Sharinar - Area 52",
+		["Tanhe - Eonar"] = "Tanhe - Eonar",
+		["Tanhe - Area 52"] = "Tanhe - Area 52",
+		["Fayzed - Eonar"] = "Fayzed - Eonar",
+		["Borsuczek - Aerie Peak"] = "Borsuczek - Aerie Peak",
+		["Ghark - Area 52"] = "Ghark - Area 52",
+		["Leapinleper - Area 52"] = "Leapinleper - Area 52",
+		["Tanhedo - Eonar"] = "Tanhedo - Eonar",
+		["Hanet - Eonar"] = "Hanet - Eonar",
+		["Tzezu - Area 52"] = "Tzezu - Area 52",
+		["Tanknee - Eonar"] = "Tanknee - Eonar",
+		["Holyshelf - Eonar"] = "Holyshelf - Eonar",
+		["Tanhegar - Area 52"] = "Tanhegar - Area 52",
+		["Taneh - Area 52"] = "Taneh - Area 52",
+		["Tanhesa - Area 52"] = "Tanhesa - Area 52",
+	},
+	["profiles"] = {
+		["Corsanguis - Area 52"] = {
+		},
+		["Sharinar - Area 52"] = {
+		},
+		["Tanhe - Eonar"] = {
+		},
+		["Tanhe - Area 52"] = {
+		},
+		["Fayzed - Eonar"] = {
+		},
+		["Borsuczek - Aerie Peak"] = {
+		},
+		["Ghark - Area 52"] = {
+		},
+		["Leapinleper - Area 52"] = {
+		},
+		["Tanhedo - Eonar"] = {
+		},
+		["Hanet - Eonar"] = {
+		},
+		["Tzezu - Area 52"] = {
+		},
+		["Tanknee - Eonar"] = {
+		},
+		["Holyshelf - Eonar"] = {
+		},
+		["Tanhegar - Area 52"] = {
+		},
+		["Taneh - Area 52"] = {
+		},
+		["Tanhesa - Area 52"] = {
+		},
+	},
+}

@@ -1,0 +1,30 @@
+
+OneRing_Config = {
+	["CharProfiles"] = {
+	},
+	["_GameVersion"] = "9.0.5",
+	["_OPieVersion"] = "Xe 2a (3.104)",
+	["ProfileStorage"] = {
+		["default"] = {
+			["ClickActivation"] = true,
+			["RingAtMouse"] = true,
+			["Bindings"] = {
+				["DKCombat"] = false,
+				["DruidShift"] = "CTRL-SPACE",
+			},
+			["ShowCooldowns"] = true,
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
+		},
+	},
+	["PersistentStorage"] = {
+		["RingKeeper"] = {
+			["OPieFlagStore"] = {
+				["StoreVersion"] = 2,
+			},
+		},
+	},
+	["_GameLocale"] = "enUS",
+}
+OPie_SavedData = nil
